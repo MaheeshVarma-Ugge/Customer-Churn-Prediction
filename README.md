@@ -14,14 +14,13 @@ This project helps companies identify customers who may leave so they can improv
 
 ---
 # Notes:
-Churn means a customer stops using the company's service or leaves the company.
-
-Tenure means the number of months a customer has been using the company's service.
-Churn Distribution – Shows how many customers stayed and how many left the company.
-Tenure vs Churn – Shows how the number of months a customer has used the service affects churn.
-Monthly Charges vs Churn – Shows whether monthly subscription charges affect customer churn.
-Contract Type vs Churn – Shows which contract types have more customers leaving the company.
-Correlation Between Features – Shows how different customer features are related to each other.
+- Churn means a customer stops using the company's service or leaves the company.
+- Tenure means the number of months a customer has been using the company's service.
+- Churn Distribution – Shows how many customers stayed and how many left the company.
+- Tenure vs Churn – Shows how the number of months a customer has used the service affects churn.
+- Monthly Charges vs Churn – Shows whether monthly subscription charges affect customer churn.
+- Contract Type vs Churn – Shows which contract types have more customers leaving the company.
+- Correlation Between Features – Shows how different customer features are related to each other.
 
 # 🎯 Project Objectives
 
