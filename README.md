@@ -15,6 +15,7 @@ This project helps companies identify customers who may leave so they can improv
 ---
 # Notes:
 Churn means a customer stops using the company's service or leaves the company.
+
 Tenure means the number of months a customer has been using the company's service.
 Churn Distribution – Shows how many customers stayed and how many left the company.
 Tenure vs Churn – Shows how the number of months a customer has used the service affects churn.
